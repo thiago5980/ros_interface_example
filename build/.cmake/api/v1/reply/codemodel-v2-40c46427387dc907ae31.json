@@ -1,0 +1,213 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				},
+				{
+					"build" : "interface_example__py",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "build/interface_example__py",
+					"targetIndexes" : 
+					[
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "interface_example",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "interface_example::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-interface_example-Debug-0542f4657b4207796f90.json",
+					"name" : "interface_example",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "interface_example__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-interface_example__cpp-Debug-c63b86bd4aeec368df00.json",
+					"name" : "interface_example__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "interface_example__py::@387e93f69d1568301f9e",
+					"jsonFile" : "target-interface_example__py-Debug-e8efa9e3be2abc9bf832.json",
+					"name" : "interface_example__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "interface_example__python::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-interface_example__python-Debug-4c5ed61ddeaa22f71187.json",
+					"name" : "interface_example__python",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "interface_example__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-interface_example__rosidl_generator_c-Debug-7d235f2d657712540037.json",
+					"name" : "interface_example__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "interface_example__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-interface_example__rosidl_typesupport_c-Debug-97b14a9ec787d26c5f98.json",
+					"name" : "interface_example__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "interface_example__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-interface_example__rosidl_typesupport_c__pyext-Debug-27597dee5e529d402c87.json",
+					"name" : "interface_example__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "interface_example__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-interface_example__rosidl_typesupport_cpp-Debug-6b21b84568b8af93df7d.json",
+					"name" : "interface_example__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "interface_example__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-interface_example__rosidl_typesupport_fastrtps_c-Debug-041ff77e4b233d927e6b.json",
+					"name" : "interface_example__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "interface_example__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-interface_example__rosidl_typesupport_fastrtps_c__pyext-Debug-6c99d471b0d5566a9866.json",
+					"name" : "interface_example__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "interface_example__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-interface_example__rosidl_typesupport_fastrtps_cpp-Debug-7c9150f2727aa053bcc9.json",
+					"name" : "interface_example__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "interface_example__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-interface_example__rosidl_typesupport_introspection_c-Debug-6a58ed026e03c010f279.json",
+					"name" : "interface_example__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "interface_example__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-interface_example__rosidl_typesupport_introspection_c__pyext-Debug-75c14c791f32c0e9320e.json",
+					"name" : "interface_example__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "interface_example__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-interface_example__rosidl_typesupport_introspection_cpp-Debug-94a15ceeab327678bd10.json",
+					"name" : "interface_example__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "interface_example_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-interface_example_uninstall-Debug-29e2a389c38978848d3b.json",
+					"name" : "interface_example_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-Debug-995a2c803e8d4a875ab6.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/thiago/ros2_ws/src/interface_example/build",
+		"source" : "/home/thiago/ros2_ws/src/interface_example"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

@@ -1,0 +1,8 @@
+{
+  "package_name": "interface_example",
+  "non_idl_tuples": [
+    "/home/thiago/ros2_ws/src/interface_example:msg/ArithmeticArgument.msg",
+    "/home/thiago/ros2_ws/src/interface_example:srv/ArithmeticOperator.srv",
+    "/home/thiago/ros2_ws/src/interface_example:action/ArithmeticChecker.action"
+  ]
+}

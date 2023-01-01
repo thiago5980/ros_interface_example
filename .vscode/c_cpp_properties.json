@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "${default}",
+                "limitSymbolsToIncludedHeaders": false
+            },
+            "includePath": [
+                "/opt/ros/foxy/include/**",
+                "/home/thiago/ros2_ws/install/turtlesim/include/**",
+                "/home/thiago/ros2_ws/src/interface_example/include/**",
+                "/home/thiago/ros2_ws/src/ros_tutorials/turtlesim/include/**",
+                "/home/thiago/ros2_ws/src/roscpp_pub/include/**",
+                "include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "c++14",
+            "configurationProvider": "ms-vscode.cmake-tools"
+        }
+    ],
+    "version": 4
+}

@@ -1,0 +1,3 @@
+/home/thiago/ros2_ws/src/interface_example/build/rosidl_adapter/interface_example:msg/ArithmeticArgument.idl
+/home/thiago/ros2_ws/src/interface_example/build/rosidl_adapter/interface_example:srv/ArithmeticOperator.idl
+/home/thiago/ros2_ws/src/interface_example/build/rosidl_adapter/interface_example:action/ArithmeticChecker.idl
